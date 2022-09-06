@@ -1,0 +1,6 @@
+framework module Pods_XOneTask {
+  umbrella header "Pods-XOneTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
